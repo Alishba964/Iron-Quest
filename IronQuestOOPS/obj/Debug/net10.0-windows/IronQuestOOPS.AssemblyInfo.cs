@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IronQuestOOPS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6abb497ef4d4274e60b1b349c70c15c84cebf3ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("IronQuestOOPS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IronQuestOOPS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
