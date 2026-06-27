@@ -1,4 +1,4 @@
-\#Iron Quest
+##Iron Quest
 IronQuest is a C# Windows Forms application developed as a semester project.
 
 ## Features
@@ -27,51 +27,51 @@ IronQuest is a C# Windows Forms application developed as a semester project.
 
 
 
-\## Screenshots
+## Screenshots
 
 
 
-\### Login Page
+### Login Page
 
-!\[Login](screenshotss/login.png)
-
-
-
-\### Dashboard
-
-!\[Dashboard](screenshotss/dashboard.png)
+![Login](screenshotss/login.png)
 
 
 
-\### Meal Log 
+### Dashboard
 
-!\[Meallog](screenshotss/meal\_log.png)
-
-
-
-\### Diagnosis
-
-!\[Diagnosis](screenshotss/Diagnosis.png)
+![Dashboard](screenshotss/dashboard.png)
 
 
 
+### Meal Log 
 
-
-\### Reports
-
-!\[Reports](screenshotss/diagnosis\_report.png)
-
-
-
-\### Profile
-
-!\[Profile](screenshotss/profile.png)
+![Meallog](screenshotss/meal\_log.png)
 
 
 
-\### Edit Form
+### Diagnosis
 
-!\[editform](screenshotss/editform.png)
+![Diagnosis](screenshotss/Diagnosis.png)
+
+
+
+
+
+### Reports
+
+![Reports](screenshotss/diagnosis\_report.png)
+
+
+
+### Profile
+
+![Profile](screenshotss/profile.png)
+
+
+
+### Edit Form
+
+![editform](screenshotss/editform.png)
 
 
 
